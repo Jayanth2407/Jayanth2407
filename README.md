@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hi, I'm Jayanth S R**<br><br>🎯 Aspiring Full Stack Developer | MERN Stack | Python | Blockchain Enthusiast  <br>💻 Passionate about building responsive web applications and solving real-world problems<br><br>🧠 About Me<br><br>- 💡 Skilled in React.js, JavaScript, Python, Node.js, and MySQL  <br>- 🚀 Completed Full-Stack Development Program at NxtWave  <br>- 🤖 Built a **Customer Support Chatbot** as part of my engineering project  <br>- 🌐 Created **Travel Trip**, a responsive trip booking web app  <br>- 🔐 Interested in Web Security, REST APIs, and JWT Authentication  <br>- 📚 Always learning and experimenting with new tech  
+👋 **Hi, I'm Jayanth S R**<br><br>🎯 Aspiring Full Stack Developer | MERN Stack | Python | Blockchain Enthusiast  <br>💻 Passionate about building responsive web applications and solving real-world problems<br><br>- 💡 Skilled in React.js, JavaScript, Python, Node.js, and MySQL  <br>- 🚀 Completed Full-Stack Development Program at NxtWave  <br>- 🤖 Built a **Customer Support Chatbot** as part of my engineering project  <br>- 🌐 Created **Travel Trip**, a responsive trip booking web app  <br>- 🔐 Interested in Web Security, REST APIs, and JWT Authentication  <br>- 📚 Always learning and experimenting with new tech  
 
 
 ## 🌐 Socials:
